@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-ntfy-notifier",
+  "name": "ntfy Note Notifier",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Send a push notification to an ntfy topic for the active Obsidian note.",
+  "author": "Local",
+  "isDesktopOnly": false
+}

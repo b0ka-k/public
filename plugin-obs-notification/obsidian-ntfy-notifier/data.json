@@ -1,0 +1,7 @@
+{
+  "serverUrl": "https://ntfy.sh",
+  "topic": "Notifications-for-obsidian",
+  "senderName": "Никита",
+  "includeFolder": true,
+  "includeVaultName": false
+}
